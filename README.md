@@ -3,7 +3,7 @@
 
 ![appicon](https://github.com/rabiaakose/h5190048rabiakose/blob/main/Screens/ic_launcher.png)
 
-<h1 id="Ekran Resimleri">Ekran Resimler</h1>
+<h1 id="EkranResimleri">Ekran Resimleri</h1>
 <p>
   <img height= "400"  src="https://github.com/rabiaakose/h5190048rabiakose/blob/main/Screens/1..PNG" alt="SS1" />
   <img height= "400"  src="https://github.com/rabiaakose/h5190048rabiakose/blob/main/Screens/ListeActivity.PNG" alt="SS2" />
