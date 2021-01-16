@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">H5190048_RabiaKoseFinal</string>
+    <string name="internet_yok">İnternet Bağlantınız Yok</string>
+    <string name="internet_bagla">Uygulamayı kullanmak için internete bağlayın</string>
+    <string name="ayarlar_git">Ayarlara Git</string>
+    <string name="uygulama_kapat">Kapat</string>
+    <string name="tiklanan_adi">Tıklanan Adı</string>
+    <string name="progress_bekleyiniz">Lütfen Bekleyiniz</string>
+    <string name="programda_uyari">Uyarı</string>
+    <string name="programdan_evet">Evet</string>
+    <string name="programdan_hayir">Hayır</string>
+    <string name="programdan_cikma">çıkmak istediğinize emin misiniz?</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="liste_activity">Liste Activity</string>
+
+</resources>

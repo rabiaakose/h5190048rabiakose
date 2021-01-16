@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="height">145dp</dimen>
+    <dimen name="rcv_height">585dp</dimen>
+    <dimen name="main_padding">100dp</dimen>
+    <dimen name="img_height">200dp</dimen>
+    <dimen name="txt_padding">10dp</dimen>
+    <dimen name="txt_sp">30sp</dimen>
+    <dimen name="txt_2sp">20sp</dimen>
+    <dimen name="margin_end">64dp</dimen>
+    <dimen name="width_dp">172dp</dimen>
+    <dimen name="layout_height">40dp</dimen>
+    <dimen name="margin_str">30dp</dimen>
+    <dimen name="main_height">150dp</dimen>
+    <dimen name="txt_sizesp">24sp</dimen>
+    <dimen name="margin_strt">55dp</dimen>
+    <dimen name="margin_top">26dp</dimen>
+    <dimen name="margin_ends">158dp</dimen>
+    <dimen name="margin_topdp">17dp</dimen>
+    <dimen name="margin_enddp">119dp</dimen>
+
+
+
+</resources>

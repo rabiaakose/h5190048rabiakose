@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.AgacDetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imgKapak"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/img_height"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/txtAdi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="Adi"
+                android:textColor="@color/kirmizi"
+                android:textSize="@dimen/txt_sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtBilimselAdi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="Bilimsel Adi"
+                android:textSize="@dimen/txt_2sp" />
+
+            <TextView
+                android:id="@+id/txtUstSinifi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="Üst Sınıf"
+                android:textSize="@dimen/txt_2sp" />
+
+            <TextView
+                android:id="@+id/txtOrtalamaBoyu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="Ortalama Boyu"
+                android:textSize="@dimen/txt_2sp" />
+
+            <TextView
+                android:id="@+id/txtAilesi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="Ailesi"
+                android:textSize="@dimen/txt_2sp" />
+
+            <TextView
+                android:id="@+id/txtBaslik2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/txt_padding"
+                android:text="AgacAciklama"
+                android:textColor="@color/kirmizi"
+                android:textSize="@dimen/txt_sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtAciklama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/txt_padding"
+                android:text="Aciklama" />
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
