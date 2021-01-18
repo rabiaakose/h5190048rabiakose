@@ -27,7 +27,7 @@ Listelenen ağaç türlerinin ailesini, uzunluğunu ve bilimsel adını da göst
 
 ## Lisans
 
-    Copyright 2021 RABİA KOSE
+    Copyright 2021 RABIA KOSE
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
